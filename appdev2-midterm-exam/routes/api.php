@@ -26,11 +26,11 @@ Route::middleware('extract.token')->group(function(){
     Route::get('uploads/{upload}', [ProductController::class, 'show']);
     Route::put('uploads/{upload}', [ProductController::class, 'update']);
     Route::delete('uploads/{upload}', [ProductController::class, 'destroy']);
-    // Route::post('upload', [ProductController::class , 'uploadImagePublic']);
+    Route::post('upload', [ProductController::class , 'uploadImagePublic']);
     
 });
 
-// Route::apiResource('upload', ProductController::class)->middleware('extract.token');
+Route::apiResource('upload', ProductController::class)->middleware('extract.token');
 
 
 
