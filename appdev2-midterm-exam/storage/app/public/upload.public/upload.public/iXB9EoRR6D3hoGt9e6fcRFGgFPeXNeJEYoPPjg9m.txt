@@ -1,0 +1,48 @@
+Define Computer System 
+a set of integrated devices that input, output, process, and store data and information. 
+
+
+Give three for each following items 
+text-entry devices 
+keyboard 
+mouse 
+scanner
+
+Positioning, Pointing, and Drawing Devices:
+
+Light Pen.
+Mouse.
+Tablet.
+Joystick.
+Trackball and spaceball.
+
+Display Devices:
+ Computer monitor
+TV screen.
+projector 
+
+VR Devices:
+Optical Trackers
+
+Physical Control, Sensors, and Special Display:
+joystick
+switches
+dials
+
+
+Printer and Scanner:
+
+
+storage Devices
+hard Disk Drive
+Solid State Drive
+USB flash drive
+
+Enumerate the type of Human Memory.
+Long-term Memory- holds information over an extended period of time, ranging from minutes to a lifetime.
+short-term Memory - is used to temporarily store information while we are performing a task, such as solving a problem or making a decision. 
+Sensory Memory- This type of memory holds information from our senses (sight, hearing, taste, touch, smell) for a brief period of time, typically less than a second. 
+
+What are the type of Computer Memory which can be related to the Human Memory?
+Random Access Memory (RAM): This is a type of computer memory that functions similarly to human short-term memory.
+Solid State Drivers- SSDs are faster and more reliable than HDDs, but they are also more expensive.
