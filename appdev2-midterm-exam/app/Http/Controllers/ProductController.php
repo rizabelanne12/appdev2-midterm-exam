@@ -45,11 +45,10 @@ class ProductController extends Controller
 
     public function uploadImageLocal(Request $request)
     {
-        $image = $request->images;
+        $image = $request->imagess;
         Storage::disk('local')->put('/upload.local', $image );
             return response()->json([
-            "message" => "Image successfully stored in local disk
-            driver."
+            "message" => "Image successfully stored in local disk driver."
             ]);
     }
 
