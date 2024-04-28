@@ -21,7 +21,7 @@ class ProductAccessMiddleware
              return response()->json(["error" => "Token is missing"], 401);
         };
 
-        if($token != env('BEARER_TOKEN')){
+        if($token !== env('BEARER_TOKEN')){
             return response()->json(["error" => "Token is invalid"], 403);
         };
 
